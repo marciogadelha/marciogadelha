@@ -5,6 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marciogadelha)](https://github.com/marciogadelha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-gadelha/)](https://www.linkedin.com/in/marcio-gadelha/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marciogadelha89@gmail.com)](mailto:marciogadelha89@gmail.com)
+[![TopCoder Badge](https://img.shields.io/badge/-TopCoder-darkblue?style=flat-square&logo=Topcoder&logoColor=white&link=https://profiles.topcoder.com/marciogadelha)](https://profiles.topcoder.com/marciogadelha)
 
 ### About me
 
